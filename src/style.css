@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#boton:hover {
+  background-color: aqua;
+}
+
+#boton:active {
+  background-color: lightgreen;
+}
